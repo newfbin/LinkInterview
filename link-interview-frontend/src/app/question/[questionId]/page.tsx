@@ -2,7 +2,7 @@
 import { message } from "antd";
 import { getQuestionVoByIdUsingGet } from "@/api/questionController";
 import QuestionCard from "@/components/QuestionCard";
-import "./index.css";
+// import "./index.css";
 
 /**
  * 题目详情页

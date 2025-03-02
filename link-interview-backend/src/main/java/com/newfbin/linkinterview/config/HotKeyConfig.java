@@ -12,8 +12,8 @@ import org.springframework.context.annotation.Configuration;
  * @author <a href="https://github.com/newfbin">newfbin</a>
  */
 // todo 取消注释开启 HotKey（须先配置 HotKey）
-@Configuration
-@ConfigurationProperties(prefix = "hotkey")
+//@Configuration
+//@ConfigurationProperties(prefix = "hotkey")
 @Data
 public class HotKeyConfig {
 

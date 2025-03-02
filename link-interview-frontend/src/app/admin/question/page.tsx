@@ -16,7 +16,7 @@ import MdEditor from "@/components/MdEditor";
 import UpdateBankModal from "@/app/admin/question/components/UpdateBankModal";
 import BatchAddQuestionsToBankModal from "@/app/admin/question/components/BatchAddQuestionsToBankModal";
 import BatchRemoveQuestionsFromBankModal from "@/app/admin/question/components/BatchRemoveQuestionsFromBankModal";
-import "./index.css";
+// import "./index.css";
 
 /**
  * 题目管理页面
